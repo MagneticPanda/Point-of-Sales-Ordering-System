@@ -7,7 +7,7 @@ As part of our final year major IT project, we were tasked with creating a _fron
 These deliverables were developed under an iterative agile methodology, and presented in four major milestone presentations throughout the academic year.
 
 We were able to have [Dimension Data](https://www.dimensiondata.com/) play the role of our client, and setup a case study surrounding a canteen within one of their branches.
-> **Disclaimer:** This project is not associated with Dimension Data in any way, and is not to be considered a product of the company. Dimension Data simply played the role of our client.
+> **Disclaimer:** This project is not associated with Dimension Data in any way, and is **not** to be considered a product of the company. Dimension Data simply played the role of our client.
 
 ### Brief overview of old canteen operation
 Employees would head down to the canteen where they would place an order with
@@ -42,3 +42,10 @@ users to access these functionalities on the go. This provides the Dimension Dat
 flexible and convenient way of placing their orders from the comfort of their work offices or current
 surroundings. The main objective was to mobilise the ordering procedure.
 
+|         **Feature**        |                                                              **Short Description**                                                              |
+|:--------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|   Login - Access Control   | The employees can login to their system using their login credentials. Page access is further governed by employee roles.                       |
+| Full Ordering Capabilities | Employees will be able to select their snack and/or drink items from the website interface, and review their order before payment confirmation. |
+|        Order History       | Employees can view their order history on their profile.                                                                                        |
+|       Item Management      | Managers have control over creating, updating, reading, and archiving items.                                                                    |
+|          Reporting         | The website generates data in tandem with the front end system. These are externally accessed via Power BI.                                     |
