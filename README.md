@@ -3,8 +3,8 @@ Information Technology becomes ever more prevalent in today’s world, character
 by mobility, communication and connectivity. Information systems play a role in
 enhancing operational efficiency and supporting decisions across all sectors.
 
-As part of our final year major IT project, we were tasked with creating a _front end system_ and _website_, with reporting capabilities, for a business which will provide some form of value to their establishment/organisation.
-These deliverables were developed under an iterative agile methodology, and presented in four major milestone presentations throughout the academic year.
+As part of our final year major IT project, we were tasked with creating a _front end system_ and _website_ for a business which will provide some form of value to their establishment/organisation. These systems are aimed to produce as much data as possible to present reports and support business intelligence.
+These deliverables were developed under an iterative agile methodology and presented in four major milestone presentations throughout the academic year.
 
 We were able to have [Dimension Data](https://www.dimensiondata.com/) play the role of our client, and setup a case study surrounding a canteen within one of their branches.
 > **Disclaimer:** This project is not associated with Dimension Data in any way, and is **not** to be considered a product of the company. Dimension Data simply played the role of our client.
