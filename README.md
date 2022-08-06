@@ -27,13 +27,14 @@ For more information on each aspect of the system, please refer to their respect
 
 <nav>
   <ol>
-    <a href="#fes">Front-End System</a>
-    <a href="#website">Website</a>
-    <a href="#reporting">Reporting</a>
+    <li><a href="#fes">Front-End System</a></li>
+    <li><a href="#website">Website</a></li>
+    <li><a href="#reporting">Reporting</a></li>
   </ol>
 </nav>
 
 <section id="fes">
+  
 ## Front-End System Overview
 The front end system draws inspiration from kiosk stations, which is it's intended method of deployment within the canteen. It fully facilitates the ordering procedure for all employees, and multiple of these statitions can be setup in the canteen to eliminate lengthy queues. The system presents varaibale viewes, depending on the user group of the logged in user. This allows to system to additionally be deployed within the canteen's kitchen such that the pending orders along with their details are viewable to the logged in canteen staff members and they can begin working on servicing the order. 
 
@@ -51,6 +52,7 @@ The front end system draws inspiration from kiosk stations, which is it's intend
 </section>
 
 <section id="website">
+  
 ## Website Overview
 The website seeks to mobilise a subset of the functionality from the front-end system whilst also providing additional user experience enhancements.
 These "on the go" featues provides the employees a more flexible and convenient way of placing their orders from the comfort of their work offices or current
@@ -66,6 +68,7 @@ surroundings.
 </section>
 
 <section id="reporting">
+  
 ## Reporting Overview
 Both systems generate plentiful data which can be used to create various reports to support smart decision making surrounding the various aspects of the canteen. Along with a traditional receipt and email confirmation upon placing an order, a dynamic reporting system was created in Power BI to display relevant information surrounding these areas namely: stock, canteen workers, sales, and credits.
 
