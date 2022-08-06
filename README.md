@@ -1,4 +1,24 @@
 # Point of Sales Ordering System
+
+### Navigation
+For more information on each aspect of the system, please refer to their respective folders
+
+<nav>
+  <ol>
+    <li><a href="#about">About</a></li>
+    <ol>
+      <li><a href="#old-operation">Old Operation</a></li>
+      <li><a href="#problems">Issues with old operation</a></li>
+    </ol>
+    <li><a href="#fes">Front-End System Overview</a></li>
+    <li><a href="#website">Website Overview</a></li>
+    <li><a href="#reporting">Reporting Overview</a></li>
+  </ol>
+</nav>
+
+<section id="about">
+
+## About
 Information Technology becomes ever more prevalent in today’s world, characterised
 by mobility, communication and connectivity. Information systems play a role in
 enhancing operational efficiency and supporting decisions across all sectors.
@@ -9,11 +29,17 @@ These deliverables were developed under an iterative agile methodology and prese
 We were able to have [Dimension Data](https://www.dimensiondata.com/) play the role of our client, and setup a case study surrounding a canteen within one of their branches.
 > **Disclaimer:** This project is not associated with Dimension Data in any way, and is **not** to be considered a product of the company. Dimension Data simply played the role of our client.
 
+<section id="old-operation">
+
 ### Brief overview of old canteen operation
 Employees would head down to the canteen where they would place an order with
 one of the available canteen staff members. The staff member would then look up the
 pricing of those items and provide the employee with a receipt. The order would be
 vocally relayed back to the chef and the employee would wait to receive their order.
+
+</section>
+
+<section id="problems">
 
 ### Main reasons underpinning the development of a new system
 - Lengthy waiting times during peak hours
@@ -22,19 +48,12 @@ vocally relayed back to the chef and the employee would wait to receive their or
 - Adherence to Covid-19 protocols
 - General inefficincies resulting from mostly manual procedures
 
-### Navigation
-For more information on each aspect of the system, please refer to their respective folders
+</section>
 
-<nav>
-  <ol>
-    <li><a href="#fes">Front-End System</a></li>
-    <li><a href="#website">Website</a></li>
-    <li><a href="#reporting">Reporting</a></li>
-  </ol>
-</nav>
+</section>
 
 <section id="fes">
-  
+
 ## Front-End System Overview
 The front end system draws inspiration from kiosk stations, which is it's intended method of deployment within the canteen. It fully facilitates the ordering procedure for all employees, and multiple of these statitions can be setup in the canteen to eliminate lengthy queues. The system presents varaibale viewes, depending on the user group of the logged in user. This allows to system to additionally be deployed within the canteen's kitchen such that the pending orders along with their details are viewable to the logged in canteen staff members and they can begin working on servicing the order. 
 
