@@ -37,10 +37,9 @@ vocally relayed back to the chef and the employee would wait to receive their or
 |          Reporting         | The system generates informative reports on various aspects such as sales, stock, canteen workers, and credits. These are all viewable through Power BI. Also included is a receipt that generates from the front-end system upon placing an order.             |
 
 ## Overview of the Website
-The website allows features deemed appropriate of the front end-system to be portable allowing
-users to access these functionalities on the go. This provides the Dimension Data employees a more
-flexible and convenient way of placing their orders from the comfort of their work offices or current
-surroundings. The main objective was to mobilise the ordering procedure.
+The website seeks to mobilise a subset of the functionality from the front-end system whilst also providing additional user experience enhancements.
+These "on the go" featues provides the employees a more flexible and convenient way of placing their orders from the comfort of their work offices or current
+surroundings.
 
 |         **Feature**        |                                                              **Short Description**                                                              |
 |:--------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
