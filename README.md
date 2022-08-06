@@ -22,7 +22,7 @@ vocally relayed back to the chef and the employee would wait to receive their or
 - Adherence to Covid-19 protocols
 - General inefficincies resulting from mostly manual procedures
 
-## Overview of the Front End System
+## Front End System Overview
 <Insert front end system description - talk about the varibale views which should explain why we call it a point of sales ordering system and not just a POS system>
 
 | **Feature**                | **Short Description**                                                                                                                                                                                                                                           |
@@ -36,7 +36,7 @@ vocally relayed back to the chef and the employee would wait to receive their or
 |  Canteen Worker Management | Managers have full capabilities to add, archive, update and view the appropriate canteen workers' details.                                                                                                                                                      |
 |          Reporting         | The system generates informative reports on various aspects such as sales, stock, canteen workers, and credits. These are all viewable through Power BI. Also included is a receipt that generates from the front-end system upon placing an order.             |
 
-## Overview of the Website
+## Website Overview
 The website seeks to mobilise a subset of the functionality from the front-end system whilst also providing additional user experience enhancements.
 These "on the go" featues provides the employees a more flexible and convenient way of placing their orders from the comfort of their work offices or current
 surroundings.
@@ -48,3 +48,6 @@ surroundings.
 | Order History              | Employees can view their order history on their profile.                                                                                        |
 | Item Management            | Managers have control over creating, updating, reading, and archiving items.                                                                    |
 | Reporting                  | The website generates data in tandem with the front end system. These are externally accessed via Power BI.                                     |
+
+## Reporting Overview
+<Insert description here>
