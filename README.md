@@ -7,7 +7,7 @@ For more information on each aspect of the system, please refer to their respect
   <ol>
     <li><a href="#about">About</a></li>
     <ol>
-      <li><a href="#old-operation">Old Operation</a></li>
+      <li><a href="#old-operation">Old operation</a></li>
       <li><a href="#problems">Issues with old operation</a></li>
     </ol>
     <li><a href="#fes">Front-End System Overview</a></li>
