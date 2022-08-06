@@ -1,1 +1,19 @@
-# About
+# Front-End System
+
+### About
+The front end system draws inspiration from kiosk stations, which is it's intended method of deployment within the canteen. It fully facilitates the ordering procedure for all employees, and multiple of these statitions can be setup in the canteen to eliminate lengthy queues. The system presents varaibale viewes, depending on the user group of the logged in user. This allows to system to additionally be deployed within the canteen's kitchen such that the pending orders along with their details are viewable to the logged in canteen staff members and they can begin working on servicing the order.
+
+### Feature Summary
+
+| **Feature**                | **Short Description**                                                                                                                                                                                                                                           |
+|:----------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Login - Access control   | All entities can login to the system using their respective credentials. These people include the canteen staff and the Dimension Data employees (which can be further subdivided by a management role). Each user group gets access to their respective pages. |
+| Full ordering capabilities | Employees will be able to select their snack and/or drink items from a well-designed user interface, thereafter they can review their order and confirm for payment.                                                                                            |
+|        Order history       | Employees can view their complete order history.                                                                                                                                                                                                                |
+|      Order Fulfilment      | Canteen workers will be able to view their active order listings and prepare the orders based on their respective details. The system tracks the stages that an order goes through from being placed, ready, and finally collected.                             |
+|       Item management      | The canteen manager(s) have control over creating, updating, reading, viewing, and archiving items.                                                                                                                                                             |
+|  Credit System Management  | The canteen manager(s) have the ability to set the monthly credit limits for the employees.                                                                                                                                                                     |
+|  Canteen Worker Management | Managers have full capabilities to add, archive, update and view the appropriate canteen workers' details.                                                                                                                                                      |
+|          Reporting         | The system generates informative reports on various aspects such as sales, stock, canteen workers, and credits. These are all viewable through Power BI. Also included is a receipt that generates from the front-end system upon placing an order.             |
+
+### Screenshots
