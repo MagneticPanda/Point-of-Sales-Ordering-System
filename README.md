@@ -44,8 +44,8 @@ surroundings. The main objective was to mobilise the ordering procedure.
 
 |         **Feature**        |                                                              **Short Description**                                                              |
 |:--------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-|   Login - Access Control   | The employees can login to their system using their login credentials. Page access is further governed by employee roles.                       |
+| Login - Access Control     | The employees can login to their system using their login credentials. Page access is further governed by employee roles.                       |
 | Full Ordering Capabilities | Employees will be able to select their snack and/or drink items from the website interface, and review their order before payment confirmation. |
-|        Order History       | Employees can view their order history on their profile.                                                                                        |
-|       Item Management      | Managers have control over creating, updating, reading, and archiving items.                                                                    |
-|          Reporting         | The website generates data in tandem with the front end system. These are externally accessed via Power BI.                                     |
+| Order History              | Employees can view their order history on their profile.                                                                                        |
+| Item Management            | Managers have control over creating, updating, reading, and archiving items.                                                                    |
+| Reporting                  | The website generates data in tandem with the front end system. These are externally accessed via Power BI.                                     |
