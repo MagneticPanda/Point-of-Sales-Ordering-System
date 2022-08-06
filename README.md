@@ -1,4 +1,4 @@
-# Point-of-Sales-Ordering-System
+# Point of Sales Ordering System
 Information Technology becomes ever more prevalent in today’s world, characterised
 by mobility, communication and connectivity. Information systems play a role in
 enhancing operational efficiency and supporting decisions across all sectors.
