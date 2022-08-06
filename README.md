@@ -98,3 +98,6 @@ Both systems generate plentiful data which can be used to create various reports
 |![Stock dashboard](https://user-images.githubusercontent.com/71750671/183264418-5cbd59ec-0403-4b69-85f7-f830cb4a94f8.png)|![Staff dashboard](https://user-images.githubusercontent.com/71750671/183264417-09963f30-9f18-4cd5-a798-9a0920c6dcf7.png)|
 
 </section>
+
+### Miscellaneous
+The MS SQL Server Databases are stored on behalf of the university. Access to these databases are closed off unless a request is made to unlock them for a brief time period. Should a demonstation of the systems working be needed, the necessary arrangements can be made.
