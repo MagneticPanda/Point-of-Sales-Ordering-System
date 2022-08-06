@@ -14,5 +14,3 @@ surroundings.
 | Order History              | Employees can view their order history on their profile.                                                                                        |
 | Item Management            | Managers have control over creating, updating, reading, and archiving items.                                                                    |
 | Reporting                  | The website generates data in tandem with the front end system. These are externally accessed via Power BI.                                     |
-
-### Screenshots
