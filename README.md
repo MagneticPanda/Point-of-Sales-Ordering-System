@@ -7,7 +7,7 @@ As part of our final year major IT project, we were tasked with creating a _fron
 These deliverables were developed under an iterative agile methodology, and presented in four major milestone presentations throughout the academic year.
 
 We were able to have [Dimension Data](https://www.dimensiondata.com/) play the role of our client, and setup a case study surrounding a canteen within one of their branches.
-> **Disclaimer: ** This project is not associated with Dimension Data in any way, and is not to be considered a product of the company. Dimension Data simply played the role of our client.
+> **Disclaimer:** This project is not associated with Dimension Data in any way, and is not to be considered a product of the company. Dimension Data simply played the role of our client.
 
 ### Brief overview of old canteen operation
 Employees would head down to the canteen where they would place an order with
