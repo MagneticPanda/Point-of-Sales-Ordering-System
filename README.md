@@ -42,7 +42,7 @@ These "on the go" featues provides the employees a more flexible and convenient 
 surroundings.
 
 |         **Feature**        |                                                              **Short Description**                                                              |
-|:--------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|:--------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Login - Access Control     | The employees can login to their system using their login credentials. Page access is further governed by employee roles.                       |
 | Full Ordering Capabilities | Employees will be able to select their snack and/or drink items from the website interface, and review their order before payment confirmation. |
 | Order History              | Employees can view their order history on their profile.                                                                                        |
