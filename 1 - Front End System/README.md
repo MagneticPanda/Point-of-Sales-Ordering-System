@@ -15,5 +15,3 @@ The front end system draws inspiration from kiosk stations, which is it's intend
 |  Credit System Management  | The canteen manager(s) have the ability to set the monthly credit limits for the employees.                                                                                                                                                                     |
 |  Canteen Worker Management | Managers have full capabilities to add, archive, update and view the appropriate canteen workers' details.                                                                                                                                                      |
 |          Reporting         | The system generates informative reports on various aspects such as sales, stock, canteen workers, and credits. These are all viewable through Power BI. Also included is a receipt that generates from the front-end system upon placing an order.             |
-
-### Screenshots
