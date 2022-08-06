@@ -1,7 +1,7 @@
 # Point of Sales Ordering System
 
 ### Navigation
-For more information on each aspect of the system, please refer to their respective folders
+For more information on each aspect of the system, please refer to their respective folders.
 
 <nav>
   <ol>
