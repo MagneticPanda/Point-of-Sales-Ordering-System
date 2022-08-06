@@ -1,0 +1,114 @@
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.pdb
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csprojResolveAssemblyReference.cache
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.MainMenu.resources
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Properties.Resources.resources
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csproj.GenerateResource.Cache
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormLogin.resources
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCanteenWorker.resources
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCart.resources
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormManagement.resources
+D:\sashe\Documents\ISTN3AS\Visual Studio 2015 Projects\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormMenu.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.MainMenu.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCanteenWorker.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCart.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormLogin.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormManagement.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormMenu.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Properties.Resources.resources
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csproj.GenerateResource.Cache
+C:\Users\sashe\Downloads\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormEmpBalances.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.pdb
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csprojResolveAssemblyReference.cache
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.MainMenu.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCanteenWorker.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCart.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormEmpBalances.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormLogin.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormManagement.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormMenu.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Properties.Resources.resources
+D:\sashe\Downloads\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csproj.GenerateResource.Cache
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.MainMenu.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCanteenWorker.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCart.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormEmpBalances.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormLogin.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormManagement.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormMenu.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Properties.Resources.resources
+C:\Users\sashe\Downloads\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csproj.GenerateResource.Cache
+D:\sashe\Downloads\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+D:\sashe\Downloads\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+D:\sashe\Downloads\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.pdb
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csprojResolveAssemblyReference.cache
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.MainMenu.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCanteenWorker.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCart.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormEmpBalances.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormLogin.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormManagement.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormMenu.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Properties.Resources.resources
+C:\Users\sashe\Downloads\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csproj.GenerateResource.Cache
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe.config
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.MainMenu.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCanteenWorker.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormCart.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormEmpBalances.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormLogin.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormManagement.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormMenu.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csproj.GenerateResource.Cache
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.exe
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\KioskProjectTest.pdb
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Properties.Resources.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.exe
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.pdb
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.Shared.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\stdole.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\AxShockwaveFlashObjects.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\ShockwaveFlashObjects.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormNewInvoice.resources
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.csprojResolveAssemblyReference.cache
+D:\sashe\Downloads\KioskProjectM2\KioskProject (3)\KioskProject (2)\KioskProject\KioskProjectV5\KioskProjectTest1\KioskProjectTest\KioskProjectTest\obj\Debug\KioskProjectTest.Forms.FormHelp.resources
