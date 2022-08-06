@@ -22,6 +22,18 @@ vocally relayed back to the chef and the employee would wait to receive their or
 - Adherence to Covid-19 protocols
 - General inefficincies resulting from mostly manual procedures
 
+### Navigation
+For more information on each aspect of the system, please refer to their respective folders
+
+<nav>
+  <ol>
+    <a href="#fes">Front-End System</a>
+    <a href="#website">Website</a>
+    <a href="#reporting">Reporting</a>
+  </ol>
+</nav>
+
+<section id="fes">
 ## Front-End System Overview
 The front end system draws inspiration from kiosk stations, which is it's intended method of deployment within the canteen. It fully facilitates the ordering procedure for all employees, and multiple of these statitions can be setup in the canteen to eliminate lengthy queues. The system presents varaibale viewes, depending on the user group of the logged in user. This allows to system to additionally be deployed within the canteen's kitchen such that the pending orders along with their details are viewable to the logged in canteen staff members and they can begin working on servicing the order. 
 
@@ -36,6 +48,9 @@ The front end system draws inspiration from kiosk stations, which is it's intend
 |  Canteen Worker Management | Managers have full capabilities to add, archive, update and view the appropriate canteen workers' details.                                                                                                                                                      |
 |          Reporting         | The system generates informative reports on various aspects such as sales, stock, canteen workers, and credits. These are all viewable through Power BI. Also included is a receipt that generates from the front-end system upon placing an order.             |
 
+</section>
+
+<section id="website">
 ## Website Overview
 The website seeks to mobilise a subset of the functionality from the front-end system whilst also providing additional user experience enhancements.
 These "on the go" featues provides the employees a more flexible and convenient way of placing their orders from the comfort of their work offices or current
@@ -48,7 +63,9 @@ surroundings.
 | Order History              | Employees can view their order history on their profile.                                                                                        |
 | Item Management            | Managers have control over creating, updating, reading, and archiving items.                                                                    |
 | Reporting                  | The website generates data in tandem with the front end system. These are externally accessed via Power BI.                                     |
+</section>
 
+<section id="reporting">
 ## Reporting Overview
 Both systems generate plentiful data which can be used to create various reports to support smart decision making surrounding the various aspects of the canteen. Along with a traditional receipt and email confirmation upon placing an order, a dynamic reporting system was created in Power BI to display relevant information surrounding these areas namely: stock, canteen workers, sales, and credits.
 
@@ -58,5 +75,4 @@ Both systems generate plentiful data which can be used to create various reports
 | **Stock Reporting Dashboard** |  **Staff Reporting Dashboard** |
 |![Stock dashboard](https://user-images.githubusercontent.com/71750671/183264418-5cbd59ec-0403-4b69-85f7-f830cb4a94f8.png)|![Staff dashboard](https://user-images.githubusercontent.com/71750671/183264417-09963f30-9f18-4cd5-a798-9a0920c6dcf7.png)|
 
-## Miscellaneous
-For more information regarding each aspect of this project, please refer to the respective folders
+</section>
