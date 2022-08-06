@@ -1,4 +1,4 @@
-# Reporting Overview
+# Reporting
 
 ### About
 Both systems generate plentiful data which can be used to create various reports to support smart decision making surrounding the various aspects of the canteen. Along with a traditional receipt and email confirmation upon placing an order, a dynamic reporting system was created in Power BI to display relevant information surrounding these areas namely: stock, canteen workers, sales, and credits.
