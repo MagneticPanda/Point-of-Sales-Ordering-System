@@ -95,7 +95,7 @@ Both systems generate plentiful data which can be used to create various reports
 | **Stock Reporting Dashboard** |  **Staff Reporting Dashboard** |
 |![Stock dashboard](https://user-images.githubusercontent.com/71750671/183264418-5cbd59ec-0403-4b69-85f7-f830cb4a94f8.png)|![Staff dashboard](https://user-images.githubusercontent.com/71750671/183264417-09963f30-9f18-4cd5-a798-9a0920c6dcf7.png)|
 
-> > **Disclaimer:** This project is not associated with the IT company in any way, and is **not** to be considered a product of the company. Their involvement in this project was simply limited to playing the role of a client. Inclusion of company logos was done simply to add to the presentation and realism/believability of the reporting dashboards.
+> **Disclaimer:** This project is not associated with the IT company in any way, and is **not** to be considered a product of the company. Their involvement in this project was simply limited to playing the role of a client. Inclusion of company logos was done simply to add to the presentation and realism/believability of the reporting dashboards.
 
 </section>
 
