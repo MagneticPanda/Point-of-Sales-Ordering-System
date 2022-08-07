@@ -24,8 +24,8 @@ enhancing operational efficiency and supporting decisions across all sectors.
 As part of our final year major IT project, we were tasked with creating a _front end system_ and _website_ for a business which will provide some form of value to their establishment/organisation. These systems are aimed to produce as much data as possible to present reports and support business intelligence.
 These deliverables were developed under an iterative agile methodology and presented in four major milestone presentations throughout the academic year.
 
-We were able to have [Dimension Data](https://www.dimensiondata.com/) play the role of our client, and setup a case study surrounding a canteen within one of their branches.
-> **Disclaimer:** This project is not associated with Dimension Data in any way, and is **not** to be considered a product of the company. Dimension Data simply played the role of our client.
+We were able to have an IT company  play the role of our client, and setup a case study surrounding a canteen within one of their branches.
+> **Disclaimer:** This project is not associated with the IT company in any way, and is **not** to be considered a product of the company. Their involvement in this project was simply limited to playing the role of a client.
 
 <section id="old-operation">
 
@@ -94,6 +94,8 @@ Both systems generate plentiful data which can be used to create various reports
 |![Sales dashboard](https://user-images.githubusercontent.com/71750671/183264415-1bf46031-21cf-4edb-b601-322dbede8399.png)|![Credit dashboard](https://user-images.githubusercontent.com/71750671/183264413-497da64c-4f21-4d64-b2dd-28ac049ff048.png)|
 | **Stock Reporting Dashboard** |  **Staff Reporting Dashboard** |
 |![Stock dashboard](https://user-images.githubusercontent.com/71750671/183264418-5cbd59ec-0403-4b69-85f7-f830cb4a94f8.png)|![Staff dashboard](https://user-images.githubusercontent.com/71750671/183264417-09963f30-9f18-4cd5-a798-9a0920c6dcf7.png)|
+
+> > **Disclaimer:** This project is not associated with the IT company in any way, and is **not** to be considered a product of the company. Their involvement in this project was simply limited to playing the role of a client. Inclusion of company logos was done simply to add to the presentation and realism/believability of the reporting dashboards.
 
 </section>
 
