@@ -91,11 +91,9 @@ Both systems generate plentiful data which can be used to create various reports
 
 | Sales Reporting Dashboard | Credit Reporting Dashboard |
 |:-------------------------:|:--------------------------:|
-|![Sales dashboard](https://user-images.githubusercontent.com/71750671/183264415-1bf46031-21cf-4edb-b601-322dbede8399.png)|![Credit dashboard](https://user-images.githubusercontent.com/71750671/183264413-497da64c-4f21-4d64-b2dd-28ac049ff048.png)|
+|![Sales dashboard v2](https://user-images.githubusercontent.com/71750671/183308322-0a22c488-7910-446c-97fc-afe8cc1b7e0e.png)|![Credit dashboard v2](https://user-images.githubusercontent.com/71750671/183308314-91524199-769b-4a2b-b7d3-7f6c61319939.png)|
 | **Stock Reporting Dashboard** |  **Staff Reporting Dashboard** |
-|![Stock dashboard](https://user-images.githubusercontent.com/71750671/183264418-5cbd59ec-0403-4b69-85f7-f830cb4a94f8.png)|![Staff dashboard](https://user-images.githubusercontent.com/71750671/183264417-09963f30-9f18-4cd5-a798-9a0920c6dcf7.png)|
-
-> **Disclaimer:** This project is not associated with the IT company in any way, and is **not** to be considered a product of the company. Their involvement in this project was simply limited to playing the role of a client. Inclusion of company logos was done simply to add to the presentation and realism/believability of the reporting dashboards.
+|![Stock dashboard v2](https://user-images.githubusercontent.com/71750671/183308327-4640bb04-ffe0-4d02-bd33-38695adc171a.png)|![staff dashboard v2](https://user-images.githubusercontent.com/71750671/183308324-add1cf20-93b7-4227-9c6f-84c2206072e4.png)|
 
 </section>
 
